@@ -46,6 +46,17 @@ img
  #social-ln:hover {
      color:#f44b42;
  }
+.flink {
+  color: #00001e;
+
+}
+
+.flink:hover {
+	font-weight: bold;
+  color: #9999ff;
+   text-decoration: none;
+}
+
 /*Image responsive
 
 @media only screen and (min-width:1198px)
